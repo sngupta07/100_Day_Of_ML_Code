@@ -1,0 +1,7 @@
+Pandas (pip install pandas)
+Numpy (pip install numpy)
+Matplotlib (pip install matplotlib)
+Seaborn (pip install seaborn)
+Scikit_learn
+Scipy
+Statsmodels
