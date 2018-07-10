@@ -1,0 +1,11 @@
+#The problem is based on the multiclass clssification
+#Iris data set
+#Numpy
+#Pandas
+#Matplotlib
+#Seaborn
+#Scikit-learn
+
+#Here, I used two methods to find the best no. of clusters
+#1. Use KMeans elbow method
+#2. Use accuracy of different n_neighbors in KNearestNeighborsClassifier. 
